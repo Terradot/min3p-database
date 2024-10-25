@@ -1,2 +1,3 @@
-# min3p-database
-MIN3P database version control based on the MD5 value of the valid database entries.
+MIN3P database version information with MD5. This MD5 value is calculated based on the function implemented in MIN3P-TD code. It is not the same as the MD5 value of a file. Instead, only the valid value in the file (e.g., without empty lines) are used to calculate MD5.
+
+Once a new database is created and verified, it is highly recommended to save the database into the repository with MD5 informations.
