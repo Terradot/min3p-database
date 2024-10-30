@@ -2,7 +2,7 @@
 <database>
     <version id="0.0">
         <description>MIN3P default database</description>
-        <path>./default</path>
+        <path>./database/default</path>
         <md5>
                 <comp.dbs>F09EB4D1BC1B76196689C6B644C8C790</comp.dbs>
                 <complex.dbs>ED6C302EB390465F6EDC127D6C151ACF</complex.dbs>
@@ -14,7 +14,7 @@
     </version>        
     <version id="0.1">
         <description>MIN3P organic database</description>
-        <path>./organic</path>
+        <path>./database/organic</path>
         <md5>
                 <comp.dbs>65F2C8F0723489564BF312A6F06419CA</comp.dbs>
                 <complex.dbs>CE7F55848E3575756E218F8BEA4C8B42</complex.dbs>
